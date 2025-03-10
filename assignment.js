@@ -26,4 +26,27 @@ message1 = "Pizza\nPizz\nPiz\nPi\nP";
 
 alert(message1);
 
+let email;
+
+email = "my email: sh2453621@gmail.com";
+
+alert(email)
+
+let book;
+
+book = "I am trying to learn from the book \n' A Smarter Way to Learn JavaScript '";
+
+alert(book)
+
+document.write("yah! I can write HTML Content through JavaScript");
+
+let design;
+
+design = "===============&^^&===============";
+
+alert(design)
+
+
+
+
 
